@@ -5,11 +5,11 @@ Pipeline de dados serverless para ingestão, processamento e análise de mensage
 ---
 
 ## 🏗️ Arquitetura
-
+```
 Telegram → API Gateway → Lambda → S3 (RAW)  
 → Lambda ETL → S3 (ENRICHED - Parquet)  
 → Athena
-
+```
 ---
 
 ## ⚙️ Tecnologias utilizadas
