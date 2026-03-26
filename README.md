@@ -70,3 +70,23 @@ Telegram → API Gateway → Lambda → S3 (RAW)
 
 ## 📁 Estrutura do projeto
 
+telegram-data-pipeline-aws/
+│
+├── sql/
+│ ├── create_table.sql
+│ ├── queries.sql
+│
+├── lambda/
+│ └── lambda_function.py
+│
+├── images/
+│ ├── architecture.png
+│ ├── athena_query.png
+│ ├── s3_partitions.png
+│
+├── docs/
+│ └── explanation.md
+│
+├── README.md
+├── .gitignore
+└── LICENSE
