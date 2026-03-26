@@ -70,7 +70,8 @@ Telegram → API Gateway → Lambda → S3 (RAW)
 
 ## 📁 Estrutura do projeto
 
-```telegram-data-pipeline-aws/
+```
+telegram-data-pipeline-aws/
 │
 ├── sql/
 │ ├── create_table.sql
