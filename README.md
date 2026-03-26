@@ -90,4 +90,5 @@ telegram-data-pipeline-aws/
 │
 ├── README.md
 ├── .gitignore
-└── LICENSE```
+└── LICENSE
+```
